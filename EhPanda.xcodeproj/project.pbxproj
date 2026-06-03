@@ -2491,7 +2491,7 @@
 			repositoryURL = "https://github.com/pointfreeco/swift-composable-architecture";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 1.17.0;
+				minimumVersion = 1.25.5;
 			};
 		};
 		ABAC82FC26BC4866009F5026 /* XCRemoteSwiftPackageReference "SwiftyOpenCC" */ = {
@@ -2507,7 +2507,7 @@
 			repositoryURL = "https://github.com/pointfreeco/swift-navigation";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 2.0.0;
+				minimumVersion = 2.7.0;
 			};
 		};
 		ABC4A0772751B40E00968A4F /* XCRemoteSwiftPackageReference "Kingfisher" */ = {

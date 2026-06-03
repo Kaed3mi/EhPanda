@@ -1,258 +1,294 @@
 {
-  "originHash" : "d2c86e73cf55b52b5883b87c93943d803ad451433deeaa7ca1c32e53b38a2565",
-  "pins" : [
+  "originHash": "d2c86e73cf55b52b5883b87c93943d803ad451433deeaa7ca1c32e53b38a2565",
+  "pins": [
     {
-      "identity" : "alertkit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/EhPanda-Team/AlertKit",
-      "state" : {
-        "branch" : "custom",
-        "revision" : "39b01c53ffadf3dab9871dd4c960cd81af5246b6"
+      "identity": "alertkit",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/EhPanda-Team/AlertKit",
+      "state": {
+        "branch": "custom",
+        "revision": "39b01c53ffadf3dab9871dd4c960cd81af5246b6"
       }
     },
     {
-      "identity" : "colorful",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Co2333/Colorful",
-      "state" : {
-        "revision" : "eb5a350aec759bd413615273cb6d64553aead4d5",
-        "version" : "1.0.1"
+      "identity": "colorful",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/Co2333/Colorful",
+      "state": {
+        "revision": "eb5a350aec759bd413615273cb6d64553aead4d5",
+        "version": "1.0.1"
       }
     },
     {
-      "identity" : "combine-schedulers",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/combine-schedulers",
-      "state" : {
-        "revision" : "5928286acce13def418ec36d05a001a9641086f2",
-        "version" : "1.0.3"
+      "identity": "combine-schedulers",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/combine-schedulers",
+      "state": {
+        "revision": "fd16d76fd8b9a976d88bfb6cacc05ca8d19c91b6",
+        "version": "1.1.0"
       }
     },
     {
-      "identity" : "deprecatedapi",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/EhPanda-Team/DeprecatedAPI",
-      "state" : {
-        "branch" : "main",
-        "revision" : "021e29675457a9b4b7859a46afbb5d0e37574e84"
+      "identity": "deprecatedapi",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/EhPanda-Team/DeprecatedAPI",
+      "state": {
+        "branch": "main",
+        "revision": "021e29675457a9b4b7859a46afbb5d0e37574e84"
       }
     },
     {
-      "identity" : "filepicker",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/markrenaud/FilePicker",
-      "state" : {
-        "revision" : "720f8cb5ca0c0efc982ed381afc84ba3e8b3214e",
-        "version" : "1.0.1"
+      "identity": "filepicker",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/markrenaud/FilePicker",
+      "state": {
+        "revision": "720f8cb5ca0c0efc982ed381afc84ba3e8b3214e",
+        "version": "1.0.1"
       }
     },
     {
-      "identity" : "kanna",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tid-kijyun/Kanna",
-      "state" : {
-        "revision" : "41c3d28ea0eac07e4551b28def9de1ede702e739",
-        "version" : "5.3.0"
+      "identity": "kanna",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/tid-kijyun/Kanna",
+      "state": {
+        "revision": "41c3d28ea0eac07e4551b28def9de1ede702e739",
+        "version": "5.3.0"
       }
     },
     {
-      "identity" : "kingfisher",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/onevcat/Kingfisher",
-      "state" : {
-        "revision" : "2ef543ee21d63734e1c004ad6c870255e8716c50",
-        "version" : "7.12.0"
+      "identity": "kingfisher",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/onevcat/Kingfisher",
+      "state": {
+        "revision": "2ef543ee21d63734e1c004ad6c870255e8716c50",
+        "version": "7.12.0"
       }
     },
     {
-      "identity" : "sfsafesymbols",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SFSafeSymbols/SFSafeSymbols",
-      "state" : {
-        "revision" : "7cca2d60925876b5953a2cf7341cd80fbeac983c",
-        "version" : "4.1.1"
+      "identity": "sfsafesymbols",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/SFSafeSymbols/SFSafeSymbols",
+      "state": {
+        "revision": "7cca2d60925876b5953a2cf7341cd80fbeac983c",
+        "version": "4.1.1"
       }
     },
     {
-      "identity" : "swift-case-paths",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-case-paths",
-      "state" : {
-        "revision" : "6989976265be3f8d2b5802c722f9ba168e227c71",
-        "version" : "1.7.2"
+      "identity": "swift-case-paths",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-case-paths",
+      "state": {
+        "revision": "6989976265be3f8d2b5802c722f9ba168e227c71",
+        "version": "1.7.2"
       }
     },
     {
-      "identity" : "swift-clocks",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-clocks",
-      "state" : {
-        "revision" : "cc46202b53476d64e824e0b6612da09d84ffde8e",
-        "version" : "1.0.6"
+      "identity": "swift-clocks",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-clocks",
+      "state": {
+        "revision": "cc46202b53476d64e824e0b6612da09d84ffde8e",
+        "version": "1.0.6"
       }
     },
     {
-      "identity" : "swift-collections",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-collections",
-      "state" : {
-        "revision" : "7b847a3b7008b2dc2f47ca3110d8c782fb2e5c7e",
-        "version" : "1.3.0"
+      "identity": "swift-collections",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/apple/swift-collections",
+      "state": {
+        "revision": "8d9834a6189db730f6264db7556a7ffb751e99ee",
+        "version": "1.4.0"
       }
     },
     {
-      "identity" : "swift-composable-architecture",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-composable-architecture",
-      "state" : {
-        "revision" : "a9c3fecb5d31fc8aad5d8ba5d830924966d7fb15",
-        "version" : "1.23.0"
+      "identity": "swift-composable-architecture",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-composable-architecture",
+      "state": {
+        "revision": "1eaa6fa2ee57ac42843283b9fd3457af408c858d",
+        "version": "1.25.5"
       }
     },
     {
-      "identity" : "swift-concurrency-extras",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-concurrency-extras",
-      "state" : {
-        "revision" : "5a3825302b1a0d744183200915a47b508c828e6f",
-        "version" : "1.3.2"
+      "identity": "swift-concurrency-extras",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-concurrency-extras",
+      "state": {
+        "revision": "5a3825302b1a0d744183200915a47b508c828e6f",
+        "version": "1.3.2"
       }
     },
     {
-      "identity" : "swift-custom-dump",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-custom-dump",
-      "state" : {
-        "revision" : "82645ec760917961cfa08c9c0c7104a57a0fa4b1",
-        "version" : "1.3.3"
+      "identity": "swift-custom-dump",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-custom-dump",
+      "state": {
+        "revision": "06c57924455064182d6b217f06ebc05d00cb2990",
+        "version": "1.5.0"
       }
     },
     {
-      "identity" : "swift-dependencies",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-dependencies",
-      "state" : {
-        "revision" : "a10f9feeb214bc72b5337b6ef6d5a029360db4cc",
-        "version" : "1.10.0"
+      "identity": "swift-dependencies",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-dependencies",
+      "state": {
+        "revision": "c79f72b3e67a1eb64f66f76704c22ed6a5c1ed84",
+        "version": "1.11.0"
       }
     },
     {
-      "identity" : "swift-identified-collections",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-identified-collections",
-      "state" : {
-        "revision" : "322d9ffeeba85c9f7c4984b39422ec7cc3c56597",
-        "version" : "1.1.1"
+      "identity": "swift-docc-plugin",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/swiftlang/swift-docc-plugin",
+      "state": {
+        "revision": "e977f65879f82b375a044c8837597f690c067da6",
+        "version": "1.4.6"
       }
     },
     {
-      "identity" : "swift-navigation",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-navigation",
-      "state" : {
-        "revision" : "bf498690e1f6b4af790260f542e8428a4ba10d78",
-        "version" : "2.6.0"
+      "identity": "swift-docc-symbolkit",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/swiftlang/swift-docc-symbolkit",
+      "state": {
+        "revision": "b45d1f2ed151d057b54504d653e0da5552844e34",
+        "version": "1.0.0"
       }
     },
     {
-      "identity" : "swift-perception",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-perception",
-      "state" : {
-        "revision" : "4f47ebafed5f0b0172cf5c661454fa8e28fb2ac4",
-        "version" : "2.0.9"
+      "identity": "swift-identified-collections",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-identified-collections",
+      "state": {
+        "revision": "322d9ffeeba85c9f7c4984b39422ec7cc3c56597",
+        "version": "1.1.1"
       }
     },
     {
-      "identity" : "swift-sharing",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-sharing",
-      "state" : {
-        "revision" : "3bfc408cc2d0bee2287c174da6b1c76768377818",
-        "version" : "2.7.4"
+      "identity": "swift-macro-testing",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-macro-testing",
+      "state": {
+        "revision": "9ab11325daa51c7c5c10fcf16c92bac906717c7e",
+        "version": "0.6.4"
       }
     },
     {
-      "identity" : "swift-syntax",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/swiftlang/swift-syntax",
-      "state" : {
-        "revision" : "4799286537280063c85a32f09884cfbca301b1a1",
-        "version" : "602.0.0"
+      "identity": "swift-navigation",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-navigation",
+      "state": {
+        "revision": "e7441dc4dfec6a4ae929e614e3c1e67c6639d164",
+        "version": "2.7.0"
       }
     },
     {
-      "identity" : "swiftcommonmark",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/gonzalezreal/SwiftCommonMark",
-      "state" : {
-        "revision" : "ed252beaddecce28ea6363f800c773d6169011b8",
-        "version" : "1.0.0"
+      "identity": "swift-perception",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-perception",
+      "state": {
+        "revision": "4f47ebafed5f0b0172cf5c661454fa8e28fb2ac4",
+        "version": "2.0.9"
       }
     },
     {
-      "identity" : "swiftuipager",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/fermoya/SwiftUIPager",
-      "state" : {
-        "revision" : "4ddc04c801aac143090bb14cf26603a3bf9c74cb",
-        "version" : "2.5.0"
+      "identity": "swift-sharing",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-sharing",
+      "state": {
+        "revision": "bc27f8322bc30f6ce7d864d137dc77a6de8b57eb",
+        "version": "2.8.0"
       }
     },
     {
-      "identity" : "swiftybeaver",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SwiftyBeaver/SwiftyBeaver",
-      "state" : {
-        "revision" : "8cba041db09596183331d123f337d0eb2e6e8e91",
-        "version" : "2.1.1"
+      "identity": "swift-snapshot-testing",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/swift-snapshot-testing",
+      "state": {
+        "revision": "bf8d8c27f0f0c6d5e77bff0db76ab68f2050d15d",
+        "version": "1.18.9"
       }
     },
     {
-      "identity" : "swiftyopencc",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/ddddxxx/SwiftyOpenCC",
-      "state" : {
-        "revision" : "1d8105a0f7199c90af722bff62728050c858e777",
-        "version" : "2.0.0-beta"
+      "identity": "swift-syntax",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/swiftlang/swift-syntax",
+      "state": {
+        "revision": "4799286537280063c85a32f09884cfbca301b1a1",
+        "version": "602.0.0"
       }
     },
     {
-      "identity" : "ttprogresshud",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/EhPanda-Team/TTProgressHUD",
-      "state" : {
-        "branch" : "custom",
-        "revision" : "349b595c4f0ff86e8d3c8d65be206a02642fd525"
+      "identity": "swiftcommonmark",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/gonzalezreal/SwiftCommonMark",
+      "state": {
+        "revision": "ed252beaddecce28ea6363f800c773d6169011b8",
+        "version": "1.0.0"
       }
     },
     {
-      "identity" : "uiimagecolors",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jathu/UIImageColors",
-      "state" : {
-        "revision" : "e49e6c32ea556e9fa0109dc79686bea4a10d41a2",
-        "version" : "2.2.0"
+      "identity": "swiftuipager",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/fermoya/SwiftUIPager",
+      "state": {
+        "revision": "4ddc04c801aac143090bb14cf26603a3bf9c74cb",
+        "version": "2.5.0"
       }
     },
     {
-      "identity" : "waterfallgrid",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/paololeonardi/WaterfallGrid",
-      "state" : {
-        "revision" : "c7c08652c3540adf8e48409c351879b4caea7e89",
-        "version" : "1.1.0"
+      "identity": "swiftybeaver",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/SwiftyBeaver/SwiftyBeaver",
+      "state": {
+        "revision": "8cba041db09596183331d123f337d0eb2e6e8e91",
+        "version": "2.1.1"
       }
     },
     {
-      "identity" : "xctest-dynamic-overlay",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
-      "state" : {
-        "revision" : "4c27acf5394b645b70d8ba19dc249c0472d5f618",
-        "version" : "1.7.0"
+      "identity": "swiftyopencc",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/ddddxxx/SwiftyOpenCC",
+      "state": {
+        "revision": "1d8105a0f7199c90af722bff62728050c858e777",
+        "version": "2.0.0-beta"
+      }
+    },
+    {
+      "identity": "ttprogresshud",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/EhPanda-Team/TTProgressHUD",
+      "state": {
+        "branch": "custom",
+        "revision": "349b595c4f0ff86e8d3c8d65be206a02642fd525"
+      }
+    },
+    {
+      "identity": "uiimagecolors",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/jathu/UIImageColors",
+      "state": {
+        "revision": "e49e6c32ea556e9fa0109dc79686bea4a10d41a2",
+        "version": "2.2.0"
+      }
+    },
+    {
+      "identity": "waterfallgrid",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/paololeonardi/WaterfallGrid",
+      "state": {
+        "revision": "c7c08652c3540adf8e48409c351879b4caea7e89",
+        "version": "1.1.0"
+      }
+    },
+    {
+      "identity": "xctest-dynamic-overlay",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state": {
+        "revision": "dfd70507def84cb5fb821278448a262c6ff2bbad",
+        "version": "1.9.0"
       }
     }
   ],
-  "version" : 3
+  "version": 3
 }
